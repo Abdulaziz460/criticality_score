@@ -1,6 +1,6 @@
 module github.com/ossf/criticality_score/v2
 
-go 1.24.2
+go 1.25
 
 require (
 	cloud.google.com/go/bigquery v1.67.0
@@ -109,7 +109,7 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/jszwec/csvutil v1.10.0 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
-	github.com/klauspost/compress v1.18.0 // indirect
+	github.com/klauspost/compress v1.20.5 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.10 // indirect
 	github.com/mattn/go-runewidth v0.0.16 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
